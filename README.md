@@ -4,7 +4,7 @@ Hands-On Exercise Compicampus GitHub Course
 Here, write a bit about yourself.
 
 Trying some Markdown:
-#Heading 1
+# Heading 1
 ## Heading 2
 #### Heading 4
 
